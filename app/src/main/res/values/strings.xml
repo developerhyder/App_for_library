@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="abt">This book is a novel which describes the struggle and choas which the protagonist goes through. The protagonist goes through different stages which include war,love and hate. The protagonist must understand and come up with a solution to this problems both in professional and personal. The protagonist describes human ideology from a perspective of anthropology.Read the book to understand the intricasies !!!!</string>
+    <string name="similar">1.Dome of Nostradamus\n2.Colosus Titan\n3.Eren The small guy\n4.Why are titans Vegies\n5.When Mikasa is your waifu \n6.Katun gokakyuno jutsu\n7.Rasengan\n8.The sage of six paths </string>
+    <string name="abt_the_app">This app informs you about the book via QR code technology Also it gives</string>
+</resources>
